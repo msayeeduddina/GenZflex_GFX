@@ -1,1 +1,1 @@
-# GenZflex_GFX
+# plinu-react
